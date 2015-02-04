@@ -1,0 +1,1 @@
+# ejb-cdi-hibernate-example
